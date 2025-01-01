@@ -1,4 +1,4 @@
-# Fall-2019-Operating-Systems
+# Fall-2020-Operating-Systems
 
 Implementation of a multi-threading package in C language and some test-cases.
 
